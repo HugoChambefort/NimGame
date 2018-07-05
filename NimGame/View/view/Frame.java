@@ -1,4 +1,4 @@
-package exia;
+package view;
 
 public class Frame {
 
